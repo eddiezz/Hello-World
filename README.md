@@ -2,6 +2,6 @@
 
 This is my Hello World Github repo
 
-Just a demo
+I'm a coder wannabe and this is just a demo
 
 .
